@@ -82,4 +82,8 @@ form button:hover{
     transform:translateY(8rem) rotate(20deg);
     opacity:0;
 }
- 
+p{
+    float:right;
+    padding-top:400px;
+
+ }
